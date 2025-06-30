@@ -1,0 +1,15 @@
+# Ambientes virtuais
+venv/
+myenv/
+social-master/myenv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Banco SQLite
+db.sqlite3
+
+# Outros
+*.log
+*.DS_Store
